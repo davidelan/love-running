@@ -1,0 +1,10 @@
+
+python3 -m http.server
+
+
+
+git add .
+
+git commit -m "MESSAGE"
+
+
